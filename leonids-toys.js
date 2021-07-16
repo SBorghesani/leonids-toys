@@ -91,7 +91,7 @@ addToyToInventory(playStation);
 
 
 
-// console.log(toys);
+console.log(toys);
 for (const toy of toys) {
     // if (toy.id === toyToFind) {
     toy.price  *= 1.05;
